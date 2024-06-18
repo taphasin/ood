@@ -1,2 +1,0 @@
-		# if start > rightEnd:
-		# 	break
